@@ -10,13 +10,6 @@
 	background-color: #fff;
 }
 
-p {
-	max-height: 14px;
-	width: 0px auto;
-	margin: 0px auto;
-	padding: auto;
-}
-
 .btn{
 	margin: 0px;
 	min-width: 100%;
@@ -27,39 +20,8 @@ a:link.a, a:visited.a, a:active.a{
     color: #fff;
 }
 
-a:hover.lea, a:focus.lea{
-    color: #fec107 !important;
-}
-
-a:hover.cr, a:focus.cr{
-    color: #8802AD !important;
-}
-
-a:hover.cd, a:focus.cd{
+a:hover.bl, a:focus.bl{
     color: #0d6efd !important;
-}
-
-a:hover.fm, a:focus.fm{
-    color: #dc3546 !important;
-}
-
-a:hover.gne, a:focus.gne{
-    color: #188754 !important;
-}
-
-a:hover.ccb, a:focus.ccb{
-    color: #0dcaf0 !important;
-}
-
-.btn-mora{
-	background: #8802AD !important;
-	border-color: #A100CD !important;
-}
-
-.btn-mora:active, .btn-mora:hover, .btn-mora:focus{
-	background: #9200BA !important;
-	border-color: #A100CD !important;
-	
 }
 
 .contenedor{
@@ -74,6 +36,38 @@ a:hover.ccb, a:focus.ccb{
 	justify-content:space-between;
 	align-items:center;
 	color: #fff;
+}
+
+.webcam{
+	padding: auto;
+	background: rgba(25,25,25,.9);
+	align-items:center;
+	font-size: larger;
+	color: #fff;
+}
+
+.descripcion{
+	margin: 10px;
+	margin-bottom: 0px;
+	background: rgba(50,50,50,.9);
+	justify-content:space-between;
+	align-items:center;
+	color: #fff;
+}
+
+.boton{
+	padding: 10px;
+}
+
+.tit-pd{
+	padding: 20px;
+}
+
+.p-des{
+	padding: 30px;
+	padding-top: 0px;
+	text-align: justify;
+	font-size: large;
 }
 
 header, footer{
