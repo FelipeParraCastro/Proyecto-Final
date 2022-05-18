@@ -39,15 +39,15 @@ a:hover.bl, a:focus.bl{
 }
 
 .webcam{
-	padding: auto;
+	margin-bottom: 0px;
 	background: rgba(25,25,25,.9);
+	justify-content:space-between;
 	align-items:center;
 	font-size: larger;
 	color: #fff;
 }
 
 .descripcion{
-	margin: 10px;
 	margin-bottom: 0px;
 	background: rgba(50,50,50,.9);
 	justify-content:space-between;
