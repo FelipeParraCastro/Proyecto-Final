@@ -70,6 +70,14 @@ a:hover.bl, a:focus.bl{
 	font-size: large;
 }
 
+.p-des-1{
+	padding: 30px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	text-align: justify;
+	font-size: large;
+}
+
 header, footer{
 	padding: 20px;
 	background: rgba(0,102,255,.65);
